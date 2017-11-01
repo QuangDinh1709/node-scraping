@@ -1,0 +1,97 @@
+{
+  "rank": "7.7",
+  "title": "Hệ thống Morico - Modern Japanese Restaurant Cafe - Dessert",
+  "url": "https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-le-loi"
+}{
+  "rank": "7.9",
+  "title": "Hệ thống Pizza 4P’s - Pizza Kiểu Nhật",
+  "url": "https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-le-thanh-ton"
+}{
+  "rank": "7.5",
+  "title": "Hệ thống Monkey In Black Cafe",
+  "url": "https://www.foody.vn/ho-chi-minh/monkey-in-black"
+}{
+  "rank": "7.5",
+  "title": "Ăn Vặt Quán Ngon",
+  "url": "https://www.foody.vn/ho-chi-minh/an-vat-quan-ngon"
+}{
+  "rank": "6.9",
+  "title": "Hệ thống Hanuri - Món Ăn Hàn Quốc",
+  "url": "https://www.foody.vn/ho-chi-minh/hanuri-quan-an-han-quoc"
+}{
+  "rank": "7.9",
+  "title": "Oromia Coffee - Nam Kỳ Khởi Nghĩa",
+  "url": "https://www.foody.vn/ho-chi-minh/oromia-coffee-nam-ky-khoi-nghia"
+}{
+  "rank": "7.9",
+  "title": "Hệ thống Buzza Pizza",
+  "url": "https://www.foody.vn/ho-chi-minh/buzza-pizza"
+}{
+  "rank": "7.5",
+  "title": "Hệ thống Starbucks Coffee - Hồ Chí Minh",
+  "url": "https://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai"
+}{
+  "rank": "7.6",
+  "title": "Morico - Modern Japanese Restaurant Cafe - Vincom Center",
+  "url": "https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-vincom-center"
+}{
+  "rank": "7.4",
+  "title": "Boom Dak - Nhà Hàng Ẩm Thực Gà Hàn Quốc",
+  "url": "https://www.foody.vn/ho-chi-minh/nha-hang-am-thuc-ga-boom-dak"
+}{
+  "rank": "7.6",
+  "title": "Partea - English Tearoom",
+  "url": "https://www.foody.vn/ho-chi-minh/partea-english-tearoom"
+}{
+  "rank": "7.1",
+  "title": "Hệ thống Hallyu - Korean Fast Food",
+  "url": "https://www.foody.vn/ho-chi-minh/hallyu-korean-fast-food"
+}{
+  "rank": "7.7",
+  "title": "Hệ thống Morico - Modern Japanese Restaurant Cafe - Dessert",
+  "url": "https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-le-loi"
+}{
+  "rank": "7.9",
+  "title": "Hệ thống Pizza 4P’s - Pizza Kiểu Nhật",
+  "url": "https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-le-thanh-ton"
+}{
+  "rank": "7.5",
+  "title": "Hệ thống Monkey In Black Cafe",
+  "url": "https://www.foody.vn/ho-chi-minh/monkey-in-black"
+}{
+  "rank": "7.5",
+  "title": "Ăn Vặt Quán Ngon",
+  "url": "https://www.foody.vn/ho-chi-minh/an-vat-quan-ngon"
+}{
+  "rank": "6.9",
+  "title": "Hệ thống Hanuri - Món Ăn Hàn Quốc",
+  "url": "https://www.foody.vn/ho-chi-minh/hanuri-quan-an-han-quoc"
+}{
+  "rank": "7.9",
+  "title": "Oromia Coffee - Nam Kỳ Khởi Nghĩa",
+  "url": "https://www.foody.vn/ho-chi-minh/oromia-coffee-nam-ky-khoi-nghia"
+}{
+  "rank": "7.9",
+  "title": "Hệ thống Buzza Pizza",
+  "url": "https://www.foody.vn/ho-chi-minh/buzza-pizza"
+}{
+  "rank": "7.5",
+  "title": "Hệ thống Starbucks Coffee - Hồ Chí Minh",
+  "url": "https://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai"
+}{
+  "rank": "7.6",
+  "title": "Morico - Modern Japanese Restaurant Cafe - Vincom Center",
+  "url": "https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-vincom-center"
+}{
+  "rank": "7.4",
+  "title": "Boom Dak - Nhà Hàng Ẩm Thực Gà Hàn Quốc",
+  "url": "https://www.foody.vn/ho-chi-minh/nha-hang-am-thuc-ga-boom-dak"
+}{
+  "rank": "7.6",
+  "title": "Partea - English Tearoom",
+  "url": "https://www.foody.vn/ho-chi-minh/partea-english-tearoom"
+}{
+  "rank": "7.1",
+  "title": "Hệ thống Hallyu - Korean Fast Food",
+  "url": "https://www.foody.vn/ho-chi-minh/hallyu-korean-fast-food"
+}
